@@ -1,0 +1,15 @@
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\faturamento distribuidora\faturamento distribuidora\bin\Debug\net7.0\faturamento distribuidora.exe
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\faturamento distribuidora\faturamento distribuidora\bin\Debug\net7.0\faturamento distribuidora.deps.json
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\faturamento distribuidora\faturamento distribuidora\bin\Debug\net7.0\faturamento distribuidora.runtimeconfig.json
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\faturamento distribuidora\faturamento distribuidora\bin\Debug\net7.0\faturamento distribuidora.dll
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\faturamento distribuidora\faturamento distribuidora\bin\Debug\net7.0\faturamento distribuidora.pdb
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\faturamento distribuidora\faturamento distribuidora\obj\Debug\net7.0\faturamento distribuidora.csproj.AssemblyReference.cache
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\faturamento distribuidora\faturamento distribuidora\obj\Debug\net7.0\faturamento distribuidora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\faturamento distribuidora\faturamento distribuidora\obj\Debug\net7.0\faturamento distribuidora.AssemblyInfoInputs.cache
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\faturamento distribuidora\faturamento distribuidora\obj\Debug\net7.0\faturamento distribuidora.AssemblyInfo.cs
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\faturamento distribuidora\faturamento distribuidora\obj\Debug\net7.0\faturamento distribuidora.csproj.CoreCompileInputs.cache
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\faturamento distribuidora\faturamento distribuidora\obj\Debug\net7.0\faturamento distribuidora.dll
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\faturamento distribuidora\faturamento distribuidora\obj\Debug\net7.0\refint\faturamento distribuidora.dll
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\faturamento distribuidora\faturamento distribuidora\obj\Debug\net7.0\faturamento distribuidora.pdb
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\faturamento distribuidora\faturamento distribuidora\obj\Debug\net7.0\faturamento distribuidora.genruntimeconfig.cache
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\faturamento distribuidora\faturamento distribuidora\obj\Debug\net7.0\ref\faturamento distribuidora.dll
