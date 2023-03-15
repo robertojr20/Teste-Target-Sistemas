@@ -1,0 +1,15 @@
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\String invertida\String invertida\bin\Debug\net7.0\String invertida.exe
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\String invertida\String invertida\bin\Debug\net7.0\String invertida.deps.json
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\String invertida\String invertida\bin\Debug\net7.0\String invertida.runtimeconfig.json
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\String invertida\String invertida\bin\Debug\net7.0\String invertida.dll
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\String invertida\String invertida\bin\Debug\net7.0\String invertida.pdb
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\String invertida\String invertida\obj\Debug\net7.0\String invertida.csproj.AssemblyReference.cache
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\String invertida\String invertida\obj\Debug\net7.0\String invertida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\String invertida\String invertida\obj\Debug\net7.0\String invertida.AssemblyInfoInputs.cache
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\String invertida\String invertida\obj\Debug\net7.0\String invertida.AssemblyInfo.cs
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\String invertida\String invertida\obj\Debug\net7.0\String invertida.csproj.CoreCompileInputs.cache
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\String invertida\String invertida\obj\Debug\net7.0\String invertida.dll
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\String invertida\String invertida\obj\Debug\net7.0\refint\String invertida.dll
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\String invertida\String invertida\obj\Debug\net7.0\String invertida.pdb
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\String invertida\String invertida\obj\Debug\net7.0\String invertida.genruntimeconfig.cache
+C:\Users\VARELA JUNIOR\Documents\Resolução códigos targets sistemas\String invertida\String invertida\obj\Debug\net7.0\ref\String invertida.dll

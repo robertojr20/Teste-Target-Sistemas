@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\VARELA JUNIOR\\Documents\\Resolução códigos targets sistemas\\String invertida\\String invertida\\String invertida.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\VARELA JUNIOR\\Documents\\Resolução códigos targets sistemas\\String invertida\\String invertida\\String invertida.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VARELA JUNIOR\\Documents\\Resolução códigos targets sistemas\\String invertida\\String invertida\\String invertida.csproj",
+        "projectName": "String invertida",
+        "projectPath": "C:\\Users\\VARELA JUNIOR\\Documents\\Resolução códigos targets sistemas\\String invertida\\String invertida\\String invertida.csproj",
+        "packagesPath": "C:\\Users\\VARELA JUNIOR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VARELA JUNIOR\\Documents\\Resolução códigos targets sistemas\\String invertida\\String invertida\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\VARELA JUNIOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
